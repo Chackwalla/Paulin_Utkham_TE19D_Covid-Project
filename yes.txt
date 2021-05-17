@@ -1,5 +1,8 @@
 Vad tänker du undersöka?
+Skillnaden mellan de olika könen och hur mycket covid-19 påverkat de.
+I vilken older dör flest utav covid och vilken dör de minst. 
 
 Hur ska resultatet presenteras? 
+Båda presenteras best i stapel diagram form men könen får visas i ciekel diagram
 
 Vilka typer av grafer och varför?
